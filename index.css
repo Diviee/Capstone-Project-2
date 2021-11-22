@@ -84,6 +84,12 @@ h1{
 
 }
 
+.box-c{
+    background-color: white;
+    height: 200px;
+    width: 720px;
+}
+
 
 .box-d{
     padding-left: 900px;
@@ -91,14 +97,10 @@ h1{
     width: 720px;
     height: 400px;
     padding-top: 0px;
+    text-align: justify;
 
 }
 
-.box-c{
-    background-color: white;
-    height: 200px;
-    width: 720px;
-}
 
 
 .fourth-box{
