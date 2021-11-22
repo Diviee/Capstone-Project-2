@@ -1,6 +1,6 @@
 .first-box{
     background-color: hsl(228, 45%, 44%);;
-    width: 1350px;
+    width: 1360px;
     height: 450px;
 }
 
@@ -54,12 +54,9 @@ h1{
 }
 
 .second-box{
-    background-color:goldenrod;
+    
     width: 1358px;
     height: 400px;
-
-
-
 }
 
 .box-a{
@@ -81,6 +78,7 @@ h1{
 
 }
 
+
 .box-d{
     padding-left: 900px;
     background-color: white;
@@ -91,10 +89,9 @@ h1{
 }
 
 .box-c{
-    background-color:rgb(216, 65, 38);
-    
-    
-
+    background-color: white;
+    height: 200px;
+    width: 200px;
 }
 
 
