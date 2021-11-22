@@ -101,7 +101,7 @@ h1{
 .fourth-box{
     background-color: rgb(97, 237, 171);
     width: 1358px;
-    height: 250px;
+    height:200px;
 
 }
 
@@ -109,7 +109,7 @@ h1{
     background-color: rgb(97, 237, 171);
     padding-top: 400px;
     width: 679px;
-    height: 250px;
+    height: 200px;
     float: left;
     
     
@@ -120,7 +120,7 @@ h1{
     background-color: rgb(75, 127, 238);
     padding-top: 400px;
     width: 679px;
-    height: 250px;
+    height:200px;
     float: right;
 }
 
