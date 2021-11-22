@@ -1,7 +1,7 @@
 .first-box{
     background-color: hsl(228, 45%, 44%);;
-    width: 1358px;
-    height: 400px;
+    width: 1350px;
+    height: 450px;
 }
 
 .container{
@@ -76,28 +76,75 @@ h1{
 }
 
 .third-box{
-    background-color: white;
     width: 1358px;
-    height: 400px;
-    
-}
-
-.box-c{
-    background-color: rgb(245, 73, 11);
-    width: 679px;
     height: 400px;
 
 }
 
 .box-d{
     padding-left: 900px;
-    padding-bottom: 1000px;
     background-color: white;
     width: 679px;
     height: 400px;
+    padding-top: 0px;
 
+}
+
+.box-c{
+    background-color:rgb(216, 65, 38);
     
+    
+
 }
 
 
+.fourth-box{
+    background-color: rgb(97, 237, 171);
+    width: 1358px;
+    height: 250px;
+
+}
+
+.box-e{
+    background-color: rgb(97, 237, 171);
+    padding-top: 400px;
+    width: 679px;
+    height: 250px;
+    float: left;
+    
+    
+
+}
+
+.box-f{
+    background-color: rgb(75, 127, 238);
+    padding-top: 400px;
+    width: 679px;
+    height: 250px;
+    float: right;
+}
+
+
+
+.box-g{
+    width: 300px;
+    height: 300px;
+    float: left;
+
+}
+
+.box-h{
+    width: 500px;
+    height: 300px;
+    float: right;
+
+}
+
+.box-i{
+    width: 400px;
+    height: 300px;
+    float: right;
+    
+}
+   
 
