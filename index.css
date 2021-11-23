@@ -4,10 +4,8 @@ img{
 }
 
 .first-box{
-    background-image: url(image-header.jpg);
-    /*background-color: #62a7c8;*/
-    /*hsl(196, 88%, 67%)*/
-    width: 1350px;
+    background-color: hsl(228, 45%, 44%);;
+    width: 1440px;
     height: 450px;
     
 }
@@ -20,25 +18,25 @@ img{
 
 .about{
     position: absolute;
-    top: 30px;
+    top: 12px;
     right: 290px;
 }
 
 .services{
     position: absolute;
-    top: 30px;
+    top: 12px;
     right: 210px;
 }
 
 .projects{
     position: absolute;
-    top: 30px;
+    top: 12px;
     right: 130px;
 }
 
 .contacts{
     position: absolute;
-    top: 25px;
+    top: 8px;
     right: 30px;
     color: black;
     border-left:6px solid white ;
@@ -54,10 +52,10 @@ img{
 }
 
 h1{
-    margin-left: 450px; 
+    margin-left: 400px; 
     color: white;
-    letter-spacing: 10px;
-    padding-top: 75px;
+    letter-spacing: 3px;
+    padding-top: 50px;
     
 }
 
@@ -71,17 +69,12 @@ h1{
     background-color: white;
     width: 720px;
     height: 400px;
-    float: left;
 
 }
 
 .box-b{
-    background-image: url(image-transform.jpg);
-    background-size:cover ;
+    width: 720px;
     height: 400px;
-    max-width: 100%;
-    
-    
 
 }
 
@@ -92,10 +85,9 @@ h1{
 }
 
 .box-c{
-    
-    background-size: cover;
-    height: 400px;
-    max-width: 200%;
+    background-color: white;
+    height: 200px;
+    width: 720px;
 }
 
 
@@ -105,7 +97,6 @@ h1{
     width: 720px;
     height: 400px;
     padding-top: 0px;
-    padding-bottom: 50px;
 
     text-align: justify;
 
