@@ -4,8 +4,10 @@ img{
 }
 
 .first-box{
-    background-color: hsl(228, 45%, 44%);;
-    width: 1440px;
+    background-image: url(image-header.jpg);
+    /*background-color: #62a7c8;*/
+    /*hsl(196, 88%, 67%)*/
+    width: 1350px;
     height: 450px;
     
 }
@@ -18,25 +20,25 @@ img{
 
 .about{
     position: absolute;
-    top: 12px;
+    top: 30px;
     right: 290px;
 }
 
 .services{
     position: absolute;
-    top: 12px;
+    top: 30px;
     right: 210px;
 }
 
 .projects{
     position: absolute;
-    top: 12px;
+    top: 30px;
     right: 130px;
 }
 
 .contacts{
     position: absolute;
-    top: 8px;
+    top: 25px;
     right: 30px;
     color: black;
     border-left:6px solid white ;
@@ -52,10 +54,10 @@ img{
 }
 
 h1{
-    margin-left: 400px; 
+    margin-left: 450px; 
     color: white;
-    letter-spacing: 3px;
-    padding-top: 50px;
+    letter-spacing: 10px;
+    padding-top: 75px;
     
 }
 
@@ -69,12 +71,17 @@ h1{
     background-color: white;
     width: 720px;
     height: 400px;
+    float: left;
 
 }
 
 .box-b{
-    width: 720px;
+    background-image: url(image-transform.jpg);
+    background-size:cover ;
     height: 400px;
+    max-width: 100%;
+    
+    
 
 }
 
@@ -85,9 +92,10 @@ h1{
 }
 
 .box-c{
-    background-color: white;
-    height: 200px;
-    width: 720px;
+    
+    background-size: cover;
+    height: 400px;
+    max-width: 200%;
 }
 
 
@@ -97,6 +105,7 @@ h1{
     width: 720px;
     height: 400px;
     padding-top: 0px;
+    padding-bottom: 50px;
 
     text-align: justify;
 
