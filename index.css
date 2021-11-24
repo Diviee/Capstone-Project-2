@@ -59,7 +59,7 @@ h2 {
 
 
 
-row no-gutters {
+row no-gutters. {
     margin: 0;
 }
 }
@@ -182,6 +182,3 @@ row no-gutters {
 .inline:hover{
     color: white;
 }
-/* .action img:hover{
-    object-color: white;
-} */
