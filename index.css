@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 img{
     display: block;
     max-width: 100%;
@@ -29,6 +34,13 @@ img{
     text-align: center;
     margin-top: 150px ;
 }
+
+.overlay-text {
+    /*text-align: right;*/
+    text-align: center;
+    margin-top: 350px;
+    padding-left: 200px;
+
 /*p {
     text-align: center;
 }
