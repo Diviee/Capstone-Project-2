@@ -14,7 +14,7 @@ img{
 .color {
     color: white;
     margin-left: 500px;
-    margin-top: auto;
+   /* margin-top: auto;*/
 }
 .row.no-gutters {
     margin: 0;
@@ -34,6 +34,18 @@ img{
     color: white;
 }
 
+.navbar .cta-btn a {
+    background: white;
+    color: black; !important;
+    text-transform: uppercase;
+    font-size: .8rem;
+    padding: 15px 20px !important;
+    line-height: 1;
+    font-weight: bold;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
 
 .txt{
     position: relative;
