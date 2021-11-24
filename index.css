@@ -3,6 +3,19 @@ img{
     max-width: 100%;
     height:auto;
 }
+
+.first-box{
+    background-image: url(image-header.jpg);
+    width: 1350px;
+    background-color: hsl(228, 45%, 44%);;
+    width: 1440px;
+    height: 100px;
+}
+.color {
+    color: white;
+    margin-left: 500px;
+    margin-top: auto;
+}
 .row.no-gutters {
     margin: 0;
 }
