@@ -4,6 +4,13 @@ img{
     height:auto;
 }
 
+#navbar-toggle-cbox {
+    display:none
+  }
+  #navbar-toggle-cbox:checked ~ .collapse {
+      display: block;
+  }
+
 .first-box{
     background-image: url(image-header.jpg);
     width: 1350px;
