@@ -13,9 +13,8 @@ img{
 
 .first-box{
     background-image: url(image-header.jpg);
-    width: 1350px;
-    background-color: hsl(228, 45%, 44%);;
     width: 1440px;
+    background-color: hsl(228, 45%, 44%);;
     height: 100px;
 }
 .color {
@@ -25,6 +24,7 @@ img{
 }
 .row.no-gutters {
     margin: 0;
+    width: 1440px;
 }
 .col.row.no-gutters{
     margin: 0;
