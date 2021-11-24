@@ -58,15 +58,31 @@ h2 {
 }*/
 
 
-.row.no-gutters {
+row no-gutters {
     margin: 0;
+}
 }
 .col.row.no-gutters{
     margin: 0;
 }
+
+#bold {
+    font-weight: bold;
+}
+
+.row no-gutters {
+    margin: 0;
+}
+
+.up {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 .navbar-brand{
     color: white;
 }
+
 .navbar{
     background-color: rgba(61,190,255,255);
     color: white;
@@ -78,7 +94,7 @@ h2 {
 
 .navbar .cta-btn a {
     background: white;
-   color: black; !important;
+    color: black; !important;
     text-transform: uppercase;
     font-size: .8rem;
     padding: 15px 20px !important;
@@ -89,15 +105,49 @@ h2 {
     transition: .3s all ease;
 }
 
+
 .navbar .cta-btn a: hover {
     color: rgb(105 196 231 / 70%);
 } 
 
 }
 
+.transparent {
+    opacity: 0.5;
+}
+
 .txt{
     position: relative;
 }
+
 .txt  img, .overlay-text{
     position:absolute
+}
+.move {
+    text-align: center;
+    font-weight: bold;
+}
+
+.inline {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.all {
+   text-align: center;
+}
+
+.straight {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.action {
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+
+.final {
+    background-color: LightSeaGreen;
 }
