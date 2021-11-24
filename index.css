@@ -18,9 +18,9 @@ img{
 
 .first-box{
     background-image: url(image-header.jpg);
-    width: 1440px;
+    width: 100%;
     background-color: hsl(228, 45%, 44%);;
-    width: 1440px;
+    /* width: 1440px; */
     height: 100px;
 }
 .color {
@@ -58,6 +58,7 @@ h2 {
 }*/
 
 
+
 row no-gutters {
     margin: 0;
 }
@@ -91,9 +92,19 @@ row no-gutters {
 .nav-link{
     color: white;
 }
+.nav-item:hover{
+    background-color: rgba(62,170,255,255);
+    color: white;
+    border-radius: 20px;
+}
+.nav-item a:hover{
+    color: white;
+   
+}
 
 .navbar .cta-btn a {
     background: white;
+    border-radius: 25px;
     color: black; !important;
     text-transform: uppercase;
     font-size: .8rem;
@@ -106,9 +117,10 @@ row no-gutters {
 }
 
 
-.navbar .cta-btn a: hover {
-    color: rgb(105 196 231 / 70%);
-} 
+/* .navbar .cta-btn a:hover {
+    baccolor: rgb(105 196 231 / 70%);
+    
+}  */
 
 }
 
@@ -149,5 +161,27 @@ row no-gutters {
 }
 
 .final {
-    background-color: LightSeaGreen;
+    background-color: rgba(144,212,197,255)
+    ;
 }
+#linkhover{
+        text-decoration: underline  yellow;
+        color: black;
+       
+}
+#linkhover2{
+    text-decoration: underline  red;
+    color: black;
+}
+#linkover:hover{
+    background-color: red;
+    text-decoration: underline green;
+    text-decoration-style: solid 5px;
+    
+}
+.inline:hover{
+    color: white;
+}
+/* .action img:hover{
+    object-color: white;
+} */
